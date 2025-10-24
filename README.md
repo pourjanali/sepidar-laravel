@@ -151,5 +151,3 @@ class MySepidarController extends Controller
 ## لایسنس
 
 این پروژه تحت لایسنس MIT منتشر شده است. برای جزئیات بیشتر فایل [LICENSE](https://www.google.com/search?q=LICENSE) را مطالعه کنید.
-
-```
