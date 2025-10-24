@@ -50,8 +50,8 @@ App/
 
 ```dotenv
 SEPIDAR_API_URL=[https://api.sepidarsystem.com/api/v1](https://api.sepidarsystem.com/api/v1)
-SEPIDAR_SERIAL=12345678-1234-1234-1234-123456789012
-SEPIDAR_GEN_VER=1
+SEPIDAR_SERIAL=12345678
+SEPIDAR_GEN_VER=110
 SEPIDAR_USERNAME=your-username
 SEPIDAR_PASSWORD=your-password
 ```
@@ -155,6 +155,3 @@ class MySepidarController extends Controller
 ## لایسنس
 
 این پروژه تحت لایسنس MIT منتشر شده است. برای جزئیات بیشتر [فایل LICENSE](https://github.com/pourjanali/sepidar-laravel/blob/main/LICENSE) را مطالعه کنید.
-
-```
-```
