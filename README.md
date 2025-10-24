@@ -2,11 +2,15 @@
 
 این ریپازیتوری یک «پکیج» قابل نصب با Composer **نیست**.
 
-این مجموعه، شامل کلاس‌های سرویس (Service Classes) آماده برای استفاده در پروژه‌های **لاراول** است تا به سرعت بتوانید به [API سپیدار](https://www.sepidarsystem.com/) متصل شوید. این سرویس‌ها وظیفه ثبت دستگاه، احراز هویت، مدیریت توکن، و رمزنگاری‌های مورد نیاز برای ارسال درخواست‌ها را به صورت خودکار انجام می‌دهند.
+این مجموعه، شامل کلاس‌های سرویس (Service Classes) آماده برای استفاده در پروژه‌های **لاراول** است تا به سرعت بتوانید به API سپیدار متصل شوید. این سرویس‌ها وظیفه ثبت دستگاه، احراز هویت، مدیریت توکن، و رمزنگاری‌های مورد نیاز برای ارسال درخواست‌ها را به صورت خودکار انجام می‌دهDEN.
 
-برای SDK های رسمی به ریپازیتوری‌های زیر مراجعه کنید:
-* [sepidar-php-sdk](https://github.com/pourjanali/sepidar-php-sdk) (کتابخانه خالص PHP)
-* [sepidar-python-sdk](https://github.com/pourjanali/sepidar-python-sdk) (کتابخانه پایتون)
+---
+
+## لینک‌های مهم
+
+* **مستندات API (Swagger):** [**pourjanali.github.io/sepidar-api-docs**](https://pourjanali.github.io/sepidar-api-docs/)
+* **SDK اصلی PHP (خالص):** [**sepidar-php-sdk**](https://github.com/pourjanali/sepidar-php-sdk)
+* **SDK پایتون:** [**sepidar-python-sdk**](https://github.com/pourjanali/sepidar-python-sdk)
 
 ---
 
@@ -150,4 +154,7 @@ class MySepidarController extends Controller
 
 ## لایسنس
 
-این پروژه تحت لایسنس MIT منتشر شده است. برای جزئیات بیشتر فایل [LICENSE](https://www.google.com/search?q=LICENSE) را مطالعه کنید.
+این پروژه تحت لایسنس MIT منتشر شده است. برای جزئیات بیشتر [فایل LICENSE](https://github.com/pourjanali/sepidar-laravel/blob/main/LICENSE) را مطالعه کنید.
+
+```
+```
